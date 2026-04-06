@@ -13,7 +13,7 @@ import moduloClinico.Animal;
 
 import java.util.ArrayList;
 import java.util.List;
-/*o codigo ainda nao compila porque não existe a classe usuário,
+/*o codigo ainda nao compila porque não existe a classe fatura,
 para as outras classes que eu fiz é a mesma coisa*/
 
 public class Tutor extends Usuario {
